@@ -1,5 +1,5 @@
 Running the tests under Maven
-The template project comes with both Maven and Gradle build scripts. To run the tests with Maven, open a command window and run:
+To run the tests with Maven, open a command window and run:
 
 ./mvnw clean verify
 
